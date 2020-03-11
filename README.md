@@ -17,6 +17,7 @@ if there is any suggestion or error, feel free to fire an issue to let me know b
 - cv2
 - pickle
 - tqdm
+
 One line command to create <stem-g> virtual environment on Anaconda
 conda create -n stem-g python=3.5.4 && conda activate stem-g && conda install -c anaconda scikit-learn pandas seaborn numpy && conda install -c conda-forge opencv tqdm && conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
